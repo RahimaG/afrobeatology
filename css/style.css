@@ -65,7 +65,7 @@ a:hover {
   opacity: .8
 }
 .fr_navigation_link {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1.1rem;
   line-height: 1.3;
@@ -77,7 +77,7 @@ a:hover {
   font-size: 1.5rem
 }
 .fr_red_button {
-  font-family: europa;
+  font-family: sans-serif;
   font-size: 1.0em;
   text-align: center;
   letter-spacing: .05em;
@@ -86,10 +86,10 @@ a:hover {
   border-radius: 4px
 }
 .fr_red_button.fr-text p {
-  font-family: europa
+  font-family: sans-serif;
 }
 .fr_paragraph_main_center_white {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1.1em;
   line-height: 1.4;
@@ -104,7 +104,7 @@ a:hover {
   color: rgba(78, 14, 14, 0.82)
 }
 .fr_h1_main_center_white {
-  font-family: gothic-open-shaded;
+  font-family: courier;
   font-weight: 900;
   font-size: 3.55em;
   line-height: 1.0em;
@@ -123,7 +123,7 @@ a:hover {
   color: #950000
 }
 .fr_h2_center_white {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 80;
   font-size: 1.7em;
   line-height: 1.45em;
@@ -132,10 +132,10 @@ a:hover {
   color: white
 }
 .fr_h2_center_white.fr-text p {
-  font-family: europa
+  font-family: sans-serif;
 }
 .fr_h1_main_center_white-1 {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 100;
   font-size: 1.7em;
   line-height: 1.45em;
@@ -144,10 +144,10 @@ a:hover {
   color: white
 }
 .fr_h1_main_center_white-1.fr-text p {
-  font-family: europa
+  font-family: sans-serif;
 }
 .fr_submit_button_1 {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1em;
   line-height: 20px;
@@ -158,7 +158,7 @@ a:hover {
   border-radius: 5px
 }
 .fr_form_input_1 {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1em;
   line-height: 20px;
@@ -168,7 +168,7 @@ a:hover {
   border-radius: 5px
 }
 .fr_h1_black {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 900;
   font-size: 3.55em;
   line-height: 1.3;
@@ -181,7 +181,7 @@ a:hover {
   color: white
 }
 .fr_caption_grey_center {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: .85em;
   line-height: 1.3em;
@@ -190,7 +190,7 @@ a:hover {
   color: #999
 }
 .fr_h2_center_black_reg {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1.5em;
   line-height: 1.45em;
@@ -199,7 +199,7 @@ a:hover {
   color: black
 }
 .fr_h2_main_center_grey {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1.7em;
   line-height: 1.45em;
@@ -208,7 +208,7 @@ a:hover {
   color: black
 }
 .fr_team_h1_main_title {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 3.55em;
   text-align: center;
@@ -216,7 +216,7 @@ a:hover {
   color: #950000
 }
 .fr_paragraph_center_black {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 300;
   font-size: 1.1em;
   line-height: 1.4;
@@ -225,7 +225,7 @@ a:hover {
   color: black
 }
 .fr_h1_main_center_black {
-  font-family: europa;
+  font-family: sans-serif;
   font-weight: 900;
   font-size: 3.55em;
   text-align: center;
@@ -233,7 +233,7 @@ a:hover {
   color: #292c31
 }
 .fr_caption_center_light_grey {
-  font-family: europa;
+  font-family:sans-serif;
   font-weight: 100;
   font-size: .85em;
   line-height: 1.3em;
