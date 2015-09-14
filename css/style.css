@@ -277,7 +277,7 @@ a:hover {
   padding-top: 10px;
   padding-right: 20px;
   padding-bottom: 10px;
-  padding-left: 20px
+  padding-left: 10px
 }
 .fr_mobile_toggle {
   display: none;
@@ -387,6 +387,13 @@ a:hover {
   padding-right: 20px;
   padding-bottom: 10px;
   padding-left: 20px
+}
+.fr_link_7 {
+  display: inline-block;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  padding-left: 10px
 }
 .fr_styled_form_1 {
   float: none;
@@ -1232,6 +1239,15 @@ a:hover {
   transition-timing-function: ease-out
 }
 .fr_link_1:hover {
+  color: #950000;
+  transition-duration: .125s
+}
+.fr_link_7 {
+  transition-property: color;
+  transition-duration: .3s;
+  transition-timing-function: ease-out
+}
+.fr_link_7:hover {
   color: #950000;
   transition-duration: .125s
 }
