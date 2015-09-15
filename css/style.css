@@ -242,6 +242,7 @@ a:hover {
   color: #cbcbcb
 }
 .fr_navigation {
+  position: fixed;
   width: 100%;
   background-color: black;
   z-index: 1000
